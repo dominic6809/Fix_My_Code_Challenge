@@ -19,7 +19,9 @@ Welcome to the "0x00. Fix my code" repository! This project is dedicated to iden
 You can use any code editor or IDE to open and edit the files. Ensure you have the necessary programming languages and tools installed on your machine to run and test the code.
 
 Python (for .py files): Python Installation
+
 JavaScript (for .js files): Node.js Installation
+
 C (for .c files): GCC Installation
 
 ## Contributing
