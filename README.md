@@ -3,12 +3,12 @@
 Welcome to the "0x00. Fix my code" repository! This project is dedicated to identifying, fixing, and learning from various coding issues. This README will guide you through the project structure, usage, and contribution guidelines.
 
 ## Table of Contents
-  -[Introduction](#Introduction)
-  -[Project Structure](#Project-Structure)
-  -[Getting Started](#Getting-Started)
-  -[Usage](#Usage)
-  -[Contributing](#Contributing)
-  -[License](#License)
+  - [Introduction](#introduction)
+  - [Project Structure](#project-Structure)
+  - [Getting Started](#getting-Started)
+  - [Usage](#Usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
