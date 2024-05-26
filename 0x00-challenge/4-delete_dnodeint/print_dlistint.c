@@ -2,7 +2,9 @@
 #include "lists.h"
 
 /**
- * print_dlistint - Prints a doubly linked list of integers
+ * print_dlistint - function ptottype that
+ * Prints a doubly linked list of integers
+ *
  * @h: A pointer to the first element of a list
  * Return: The number of elements printed
  */
