@@ -3,7 +3,7 @@
 
 
 class Square():
-    """ Square class. """
+    """ Square class """
     width = 0
     height = 0
 
@@ -13,6 +13,7 @@ class Square():
             setattr(self, key, value)
 
     def area_of_my_square(self):
+        """ Area of the square """
         return self.width * self.height
 
     def permiter_of_my_square(self):
